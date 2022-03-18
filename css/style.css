@@ -1,0 +1,29 @@
+body {
+    font: 20px Arial,sans-serif;
+}
+.navbar {
+    background-color: #ffc534;
+}
+
+.Website {
+    background-color: rgb(209, 223, 181);   
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 25px;
+    color: rgb(57, 50, 50);
+}
+
+.Serviços {
+    background-color: #a2a2a2;
+}
+
+.Parceiros {
+    background-color: rgb(168, 232, 209);
+}
+
+.jj-footer {
+    background-color: rgb(48, 48, 48);
+    color: #a2a2a2;
+}
